@@ -8,10 +8,10 @@ This is a mono repo, with all the services that make up the application, includi
 
 Some technologies I use:
 
-Java 14
-Spring Cloud OSS:
-* Eureka
-* Config
-* Hystrix
-RabbitMQ
-Docker
+> Java 14
+> Spring Cloud OSS:
+> * Eureka
+> * Config
+> * Hystrix
+> RabbitMQ
+> Docker
