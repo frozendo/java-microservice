@@ -1,0 +1,13 @@
+server:
+  port: 8761
+
+spring:
+  application:
+    name: hawking-discovery-server
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+  datacenter: local
+  environment: local
