@@ -1,0 +1,3 @@
+eureka:
+  datacenter: rony-macos
+  environment: stage

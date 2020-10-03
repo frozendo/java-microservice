@@ -1,0 +1,3 @@
+eureka:
+  datacenter: neville-macos
+  environment: stage
